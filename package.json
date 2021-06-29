@@ -1,0 +1,26 @@
+{
+  "name": "graph-log",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanBloch/graph-log-js.git"
+  },
+  "keywords": [
+    "graph",
+    "log"
+  ],
+  "author": "Jan Bloch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JanBloch/graph-log-js/issues"
+  },
+  "homepage": "https://github.com/JanBloch/graph-log-js#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
